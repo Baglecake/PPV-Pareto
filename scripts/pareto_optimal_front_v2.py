@@ -17,7 +17,7 @@
 #     * EC (state-refit): refit knee+state for EC scoring only (robustness)
 #     * Optional min_neff: omit ultra-thin states from EV tallies for transparency
 # - Outputs: Pareto plot/CSV, national summary with CIs, EC tables, report.
-
+ 
 import os
 import json
 import random
