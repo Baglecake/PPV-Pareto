@@ -2,7 +2,7 @@
 # row-wise fallback, calibration, EC variants, and grouped CV/cross-fitted calibration.
 #
 # Key improvements in v10:
-# - Production error handling with proper exit codes
+# - Production error handling with proper exit codes 
 # - Configurable verbosity to reduce console spam
 # - Enhanced state diagnostics with neff tables
 # - Better artifact organization and validation
